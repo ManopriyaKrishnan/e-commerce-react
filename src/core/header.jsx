@@ -23,7 +23,7 @@ const Header = () => {
         onClick={() => navigate("/")}
       >
         <h4 className="text-light">Co</h4>
-        <h4 className="text-warning">mart</h4>
+        <h4 className="text-warning">marts</h4>
       </div>
       <div className="col-md-5">
         <div className="input-group">
